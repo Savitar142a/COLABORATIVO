@@ -13,6 +13,7 @@ namespace T2_FUNPRO
         public string e_Telefono { get; set; }
 
         //Vamos agregar comentarios en nuestra linea de codigo , para subirlo a GitHub
+        //Ingreso mi aporte de avance de codigo realizado el dia domingo
 
         public Dueño(string nombre_apellido, string direccion, string telefono)
         {
